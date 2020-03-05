@@ -1,5 +1,5 @@
 FROM golang:1.13.8
-MAINTAINER gxthrj@163.com
+MAINTAINER liurui@sinog2c.com
 
 WORKDIR /go/src/github.com/iresty/ingress-controller
 COPY . .
